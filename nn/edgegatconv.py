@@ -85,7 +85,7 @@ class EdgeGATConv(nn.Module):
     >>> import dgl
     >>> import numpy as np
     >>> import torch as th
-    >>> from nn.edgegatconv import EdgeGATConv import EdgeGATConv
+    >>> from nn.edgegatconv import EdgeGATConv
 
     >>> # Case 1: Homogeneous graph
     >>> num_nodes, num_edges = 8, 30
