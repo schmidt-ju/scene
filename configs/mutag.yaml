@@ -1,0 +1,7 @@
+epochs: 200
+dropout: 0.7
+weight_decay: 0.0002
+learning_rate: 5e-5
+degree_cutting: 2
+hidden_size: 512
+num_heads: 8
